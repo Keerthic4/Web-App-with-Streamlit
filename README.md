@@ -47,12 +47,14 @@ This data set includes descriptions of hypothetical samples corresponding to 23 
 # SVM
 
 <img width="476" alt="mushroom1" src="https://user-images.githubusercontent.com/71408369/124996918-cb9f0c80-e017-11eb-85d3-ea522b73408f.png">
+
+# Logistic Regression
 <img width="473" alt="mushroom2" src="https://user-images.githubusercontent.com/71408369/124996923-ccd03980-e017-11eb-91b0-92e256891e0a.png">
 
 
-# Logistic Regression
+# Random Forest
 <img width="487" alt="m3" src="https://user-images.githubusercontent.com/71408369/124996905-c641c200-e017-11eb-9d6e-ddf51011c3bb.png">
 
-# Random Forest
+
 <img width="476" alt="m4" src="https://user-images.githubusercontent.com/71408369/124996913-c9d54900-e017-11eb-885b-ce13520f37da.png">
 
